@@ -3,7 +3,7 @@ a Python script that uses facial recognition technology to search for a person's
 
 this script requires a valid API key and secret from Clearview AI, which can only be obtained through their official channels.
 
-#FaceHugger is developed by abtzpro and Hello Security.
+#FaceHugger is Developed by abtzpro, Adam R, and Hello Security
 
 #FaceHugger is still a work in progress and as such if bugs are encountered please report them.
 
