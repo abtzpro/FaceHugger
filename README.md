@@ -21,4 +21,4 @@ this script requires a valid API key and secret from Clearview AI, which can onl
 
 
 ## FaceHuggerV2 has been debugged and released. As per the original FaceHugger code, you will need a clearview AI API key obtained from the official sources. 
-V2 brings functionality to choose from a gee mainstream security camera brands, and then connect to the chosen camera with the appropriate credentials added in your local version of FaceHuggerV2.py. V2 then provides social media accounts of those found within the footage live real time or as a standard jpeg file. When the social media profiles are dound a browser is opened and the content is displayed. 
+V2 brings functionality to choose from a few mainstream security camera brands, and then connect to the chosen camera with the appropriate credentials added in your local version of FaceHuggerV2.py. V2 then provides social media accounts of those found within the footage live real time or as a standard jpeg file. When the social media profiles are dound a browser is opened and the content is displayed. 
